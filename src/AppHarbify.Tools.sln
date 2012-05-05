@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarbify.EF", "AppHarbify.EF.csproj", "{4B2401F9-0589-4991-A908-E5A3817F89D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarbify.EF", "AppHarbify.EF/AppHarbify.EF.csproj", "{4B2401F9-0589-4991-A908-E5A3817F89D1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D9B2B73B-4DFC-42E0-B00B-9347DA129874}"
 	ProjectSection(SolutionItems) = preProject
