@@ -3,3 +3,5 @@
 [pP]ackages/
 *.suo
 *.user
+src/_ReSharper.AppHarbify.Tools/
+*.ncrunchsolution
