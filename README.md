@@ -22,6 +22,14 @@ Then add the following line of code somewhere in your app startup process.
 AppHarbify.EF.ConnectionFactory.Enable();
 ````
 
+You can also enable `MultipleActiveResultSets` by simply passing in true, which will append `MultipleActiveResultSets=True;` to the connection string provided by AppHarbor.
+
+````
+AppHarbify.EF.ConnectionFactory.Enable(true);
+````
+
+
+
 ##See Also
 * [AppHarbify](http://appharbify.com)
 * [AppHarbor](http://appharbor.com)
